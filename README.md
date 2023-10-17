@@ -16,7 +16,7 @@ Figure 1: Class Attendance Star Schema
 ## ETL Pipeline was built in Visual Studio using SSIS
 
 - The project aimed to create an ETL (Extract, Transform, Load) pipeline for data extraction, transformation, and loading into SQL Server Databases from the OLEDB source.
-- Wrote ETL packages to extract, transform and load data from the OLEDB source to Staging and staging to EDW Databases.
+- Wrote ETL packages to extract, transform and load data from the OLTP database to Staging and staging to EDW Databases.
 - Created a metric table for an audit of Source Count, and Destination Count Staging database, and Pre, Current, Post, Type1, and Type2 Counts for EDW using the Control framework database.
 - Scheduled and monitored SQL Server Agent jobs to run ETL SSIS packages to move data.
 
