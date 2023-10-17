@@ -27,11 +27,11 @@ Figure 1: Class Attendance Star Schema
 
    ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL1.PNG) 
 
- Figure 3: Data-flow diagram of ETL Pipeline for Product dimension
+ Figure 3: Data-flow diagram of ETL Pipeline for Student dimension
 
   ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL2.PNG) 
 
-Figure 4: Data-flow diagram for Incremental load of ETL Pipeline for Factsales
+Figure 4: Data-flow diagram for Incremental load of ETL Pipeline for FactClassAttendance
 
  ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL4.PNG) 
 
