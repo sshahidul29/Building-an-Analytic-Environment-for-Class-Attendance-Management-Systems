@@ -21,38 +21,20 @@ Figure 1: Class Attendance Star Schema
 - Scheduled and monitored SQL Server Agent jobs to run ETL SSIS packages to move data.
 
   
-  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesCETL.PNG)
+   ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL3.PNG) 
 
  Figure 2: Control-flow diagram for ETL Pipeline
 
-  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Product.PNG)
+   ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL1.PNG) 
 
  Figure 3: Data-flow diagram of ETL Pipeline for Product dimension
 
- ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesETL.PNG)
+  ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL2.PNG) 
 
 Figure 4: Data-flow diagram for Incremental load of ETL Pipeline for Factsales
 
-![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/Control.PNG)
+ ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL4.PNG) 
 
 Figure 5: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
-## Datamart was built using SSAS for Business Users
 
-- Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
-
- ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/SalesM.PNG)
-
-Figure 6: Sales Cube for Multidimensional Analysis
-
- ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/salesTab.PNG)
-
-Figure 7: Sales Cube for Tabular Analysis
-
-![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchaseM.PNG)
-
-Figure 8: Purchase Cube for Multidimensional Analysis
-
- ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/PurchaseTab.PNG)
-
-Figure 9: Purchase Cube for Tabular Analysis
