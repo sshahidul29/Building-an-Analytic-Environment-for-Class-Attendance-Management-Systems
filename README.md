@@ -1,10 +1,10 @@
 ## Overview
 
-This project aims to empower our Educational Institute client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, and creating analytical model for informed decision-making.
+This project aims to empower our Educational Institute client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, and creating the analytical model for informed decision-making.
 
 ## Enterprise Data Warehouse was built in MSSQL Server using SSMS
 
-- Performed requirement gathering, documentation and profiling of available data.
+- Performed business requirement gathering, documentation and profiling of available data.
 - Collaborated with the project team to identify and document source-to-target mapping. 
 - Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
