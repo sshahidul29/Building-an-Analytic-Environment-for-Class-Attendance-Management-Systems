@@ -10,7 +10,7 @@ This project aims to empower our Educational Institute client with data-driven i
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
 
-  ![Sales Analysis](https://github.com/sshahidul29/Sales-and-Procurement-Data-Integration-and-Analytics-Framework/blob/main/Figures/ClassEDW.PNG)  
+  ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassEDW.PNG)  
 Figure 1: Class Attendance Star Schema
 
 ## ETL Pipeline was built in Visual Studio using SSIS
