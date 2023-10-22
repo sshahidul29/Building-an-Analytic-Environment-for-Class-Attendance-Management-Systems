@@ -2,15 +2,28 @@
 
 This project aims to empower our Educational Institute client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, and creating the analytical model for informed decision-making.
 
-## Enterprise Data Warehouse was built in MSSQL Server using SSMS
+## Software requirements:
+- MS SQL Server, SSMS, SSIS, SSAS, and Visual Studio
+- Windows OS
+
+## Data Management and Processes
+Data Management and Processes involved with
+- Data Governance
+- Data Quality and Validation
+- Data Retention Policy
+- Master Data Management
+
+## System Development Life Cycle (SDLC)
+- Agile Kanban Methodology
+
+## Enterprise Data Warehouse was built in MS SQL Server using SSMS
 
 - Performed business requirement gathering, documentation and profiling of available data.
 - Collaborated with the project team to identify and document source-to-target mapping. 
 - Created Bus Matrix (composition of Business process, Granularity, Facts, Fact Tables, and Dimensions).
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
-
-  ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassEDW.PNG)  
+![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassEDW.PNG)  
 Figure 1: Class Attendance Star Schema
 
 ## ETL Pipeline was built in Visual Studio using SSIS
