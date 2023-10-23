@@ -3,9 +3,8 @@
 This project aims to empower our Educational Institute client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, and creating the analytical model for informed decision-making.
 
 ## Contributions
--
--
--
+- Successfully created a resilient Enterprise Data Warehouse (EDW) tailored to fulfill the specific requirements of the business.
+
 ## Software requirements:
 - MS SQL Server, SSMS, SSIS, and Visual Studio
 - Windows OS
