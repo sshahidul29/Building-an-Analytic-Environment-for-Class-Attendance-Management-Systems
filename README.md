@@ -2,6 +2,10 @@
 
 This project aims to empower our Educational Institute client with data-driven insights and decision-making capabilities by providing a robust data infrastructure and actionable analytics. It involves integrating, cleaning, and structuring data, and creating the analytical model for informed decision-making.
 
+## Contributions
+-
+-
+-
 ## Software requirements:
 - MS SQL Server, SSMS, SSIS, and Visual Studio
 - Windows OS
